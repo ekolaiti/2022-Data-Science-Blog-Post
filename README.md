@@ -18,11 +18,10 @@ Go to https://insights.stackoverflow.com/survey download stack-overflow-develope
 1 - survey_results_public.csv - CSV file with main survey results, one respondent per row and one column per answer.   
 2 - survey_results_schema.csv - CSV file with survey schema, i.e., the questions that correspond to each column name.   
 
-Results:   
-Question 1. Bash/Shell, SQL, Delphi and C# are more popular with developers that have ‘15 and over’ years of experience, while the ‘less than 15’ years group prefers Python, HTML/CSS and JavaScript.    
-For Question 2 and Question 3 I focused on the 10 countries with the most survey responses. I found that:   
-Question 2. Living in the USA, Canada or the UK comes with higher pay scales for the same years of experience. On the other end there is Brazil, India, Poland and Spain.   
-Question 3. Canada, Poland and the UK have the smallest percentage of fully in-person work, whilst India has the largest.  
+* Findings  
+    * Q1 - Javascript, HTML/CSS and SQL are the top three languages used overall. Bash/Shell, SQL, Delphi and C# are more popular with the ‘15 and over’ developers, while the ‘less than 15’ years group shows preference for Python, HTML/CSS and JavaScript.  
+    * Q2 - The country of residence has a significant impact on the salary that professionals with the same years of experience earn. Higer payscales are recorded for the USA, Canada, and the UK compared to Brazil, India, Poland and Spain.  
+    * Q3 - Working fully remotely or hybird (some remote, some in-person) is the dominant working pattern recorded for all of the countries. For 2022 Canada, Poland and the UK have the smallest percentage of fully in-person work, whilst India has the largest percentage.   
     
 To run the Jupyter notebook you need to import the following libraries: 
 import numpy as np   
