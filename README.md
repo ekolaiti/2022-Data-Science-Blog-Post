@@ -17,8 +17,8 @@ I tried repeatedly to upload the survey data but I couldn't synch the data files
 Please download the following two csv files with the survey raw data and schema from the following link:
 
 Go to https://insights.stackoverflow.com/survey download stack-overflow-developer-survey-2022 and then unzip and copy these two files in the same folder as the Jupyter notebook.   
-* 1 - survey_results_public.csv - CSV file with main survey results, one respondent per row and one column per answer.
-* 2 - survey_results_schema.csv - CSV file with survey schema, i.e., the questions that correspond to each column name.   
+1 - survey_results_public.csv - CSV file with main survey results, one respondent per row and one column per answer.  
+2 - survey_results_schema.csv - CSV file with survey schema, i.e., the questions that correspond to each column name.   
 
 Findings:  
 * Q1 - Javascript, HTML/CSS and SQL are the top three languages used overall. Bash/Shell, SQL, Delphi and C# are more popular with the ‘15 and over’ developers, while the ‘less than 15’ years group shows preference for Python, HTML/CSS and JavaScript.  
