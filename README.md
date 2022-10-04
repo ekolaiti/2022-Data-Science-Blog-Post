@@ -21,11 +21,11 @@ Question 1. Bash/Shell, SQL, Delphi and C# are more popular with developers that
 For Question 2 and Question 3 I focused on the 10 countries with the most survey responses. I found that: 
 Question 2. Living in the USA, Canada or the UK comes with higher pay scales for the same years of experience. On the other end there is Brazil, India, Poland and Spain. 
 Question 3. Canada, Poland and the UK have the smallest percentage of fully in-person work, whilst India has the largest.
-
+  
 To run the Jupyter notebook you need to import the following libraries: 
 import numpy as np 
 import pandas as pd 
 import matplotlib.pyplot as plt 
 import seaborn as sns 
-
+  
 Acknowledgment: A massive thank you to Stack Overflow for allowing access to the data.
