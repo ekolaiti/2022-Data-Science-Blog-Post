@@ -10,11 +10,12 @@ The findings of this data analysis are presented in this blog post:
 https://medium.com/@irene.kolaiti/its-where-you-live-not-what-you-know-5ed4b8c62ec3
 
 Files:
-This repository includes besides this README the following file:  
+* This repository includes besides this README the following file:  
 blog_09_2022.ipynb - A Jypyter notebook with the data analysis steps that I followed for this project.  
   
 I tried repeatedly to upload the survey data but I couldn't synch the data files into this repository. 
-Please download the following csv files with the survey raw data and schema from the following link: 
+Please download the following two csv files with the survey raw data and schema from the following link:
+
 Go to https://insights.stackoverflow.com/survey download stack-overflow-developer-survey-2022 and then unzip and copy these two files in the same place that you have the Jupyter notebook.   
 * 1 - survey_results_public.csv - CSV file with main survey results, one respondent per row and one column per answer.
 * 2 - survey_results_schema.csv - CSV file with survey schema, i.e., the questions that correspond to each column name.   
