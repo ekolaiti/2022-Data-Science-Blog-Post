@@ -1,4 +1,4 @@
-**2022 Data Science Blog Post**
+**2022 Data Science Blog Post**. 
 Description:  
 The 2022 Stack Overflow Annual Developer Survey has over 70,000 responses collected from more than 180 countries. I performed data analysis of the survey responses to look into how the country of residence can affect salary and working conditions, and what programming language preferences are recorded in relation to years of professional experience. In specific the aim of this analysis is to answer the following 3 questions:  
     - Question 1. Which programming languages are used by the most experienced developers?  
